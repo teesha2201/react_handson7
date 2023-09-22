@@ -5,7 +5,7 @@ import Student from "../CompoUI/Student"
 import Contact from "../CompoUI/Contact"
 import NewStudent from "../CompoUI/NewStudent"
 import EditStudent from "../CompoUI/EditStudent"
-import { isAction } from "@reduxjs/toolkit"
+
 
 const RouteCompo = () =>
 {
